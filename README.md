@@ -57,7 +57,7 @@ O projeto aplica, na prática, conceitos fundamentais de programação em C: est
 ### Menu principal
 
 <p align="center">
-  <img src="img/tela-inicial.png" alt="Menu principal do sistema" width="420">
+  <img src="images/tela-inicial.png" alt="Menu principal do sistema" width="420">
 </p>
 
 ### Cadastro e listagem
@@ -68,8 +68,8 @@ O projeto aplica, na prática, conceitos fundamentais de programação em C: est
     <td align="center"><b>Listar produtos</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/cadastro.png" alt="Tela de cadastro de produto" width="380"></td>
-    <td align="center"><img src="img/listagem.png" alt="Tela de listagem de produtos" width="330"></td>
+    <td align="center"><img src="images/cadastro.png" alt="Tela de cadastro de produto" width="380"></td>
+    <td align="center"><img src="images/listagem.png" alt="Tela de listagem de produtos" width="330"></td>
   </tr>
 </table>
 
@@ -82,9 +82,9 @@ O projeto aplica, na prática, conceitos fundamentais de programação em C: est
     <td align="center"><b>Por faixa de preços</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/busca-nome.png" alt="Busca por nome" width="300"></td>
-    <td align="center"><img src="img/busca-categoria.png" alt="Busca por categoria" width="300"></td>
-    <td align="center"><img src="img/busca-preco.png" alt="Busca por faixa de preços" width="300"></td>
+    <td align="center"><img src="images/busca-nome.png" alt="Busca por nome" width="300"></td>
+    <td align="center"><img src="images/busca-categoria.png" alt="Busca por categoria" width="300"></td>
+    <td align="center"><img src="images/busca-preco.png" alt="Busca por faixa de preços" width="300"></td>
   </tr>
 </table>
 
@@ -96,8 +96,8 @@ O projeto aplica, na prática, conceitos fundamentais de programação em C: est
     <td align="center"><b>Remover produto</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/atualizar.png" alt="Tela de atualização de produto" width="400"></td>
-    <td align="center"><img src="img/remover.png" alt="Tela de remoção de produto" width="430"></td>
+    <td align="center"><img src="images/atualizar.png" alt="Tela de atualização de produto" width="400"></td>
+    <td align="center"><img src="images/remover.png" alt="Tela de remoção de produto" width="430"></td>
   </tr>
 </table>
 
